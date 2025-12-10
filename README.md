@@ -16,18 +16,19 @@ class Developer:
         self.specialization = "Data Science"
         self.current_projects = [
             "Portfolio Website", 
-            "Django File Converter", 
-            "Online Voting System"
+            "Django File Converter",
+            "Expence Tracker",
+            "OTT Market Dashboard" 
         ]
         self.location = "India 🇮🇳"
-        self.goal = "12+ LPA @ Product-Based Company"
+        self.goal = "Be Happy"
     
     def say_hi(self):
         return "Thanks for stopping by! Let's build something amazing together! ✨"
 ```
-
-- 💻 B.Tech 3rd-year CSE (Data Science) student
-- 🎯 Preparing for product-based companies (12+ LPA goal)
+- ⚡ Turning caffeine into code since 2022
+- 💼 Currently working on GarageMitra - revolutionizing garage management 
+- 🎨 I debug with console.log() and I'm not ashamed to admit it
 - 🧠 Strong interest in Frontend, Backend, Data Science & Big Data
 - 🔥 Learning new technologies through real projects
 - 😄 Fun fact: *My Tailwind designs come out cleaner than my room!*
@@ -79,8 +80,6 @@ A multi-format converter with user accounts, history tracking, and real-time sta
 ### 🔧 **Online Voting System**
 Full-stack Python + Django application with secure authentication, real-time updates, and clean dashboard
 
-### 🔧 **DSA Preparation**
-Following **Striver's A2Z DSA Sheet** — building a strong problem-solving foundation for cracking product-based companies
 
 ---
 
@@ -148,6 +147,7 @@ class Mindset:
 ### ⭐ Thanks for visiting!
 
 **P.S.** — *My Tailwind UI is fire 🔥, but my CSS without Tailwind… let's not talk about it 😅*
+         - *My code works perfectly... until I explain it to someone, then the bugs magically appear 🪲✨*
 
 ![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
 
